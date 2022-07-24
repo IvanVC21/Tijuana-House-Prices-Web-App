@@ -16,4 +16,5 @@ Project was created using:
   * XGBoost
   * Streamlit
 
+You can access the Web App [here.](https://ivanvc21-tijuana-house-prices-app-b9tcqq.streamlitapp.com/)
 
