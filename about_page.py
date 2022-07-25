@@ -7,7 +7,7 @@ def show_about_page():
     st.image(image, caption = 'Going to Tijuana Cultural Center (CECUT) is always a great idea.')
     
     st.write("Hi my name is Ivan Verdugo and I present to you the Tijuana House Prices Web App.")
-    st.write("It was made by web scraping the website [Inmuebles24](https://www.inmuebles24.com/) and developed in Python. Huge shoutout and acknowledgement to one of my best friends and colleague [Jesus Hector Zamora](https://www.linkedin.com/in/jesus-hector-zamora/), as he helped me with the web scrapping and getting the coordinates for every house!")
+    st.write("The main purpose of this project is to have a predictor that gives us a house price given certain feautres. It was made by web scraping the website [Inmuebles24](https://www.inmuebles24.com/) and developed in Python. Huge shoutout and acknowledgement to one of my best friends and colleague [Jesus Hector Zamora](https://www.linkedin.com/in/jesus-hector-zamora/), as he helped me with the web scrapping and getting the coordinates for every house!")
     
     st.write("""### Big Takeaways""")
     st.write("* Initially we had 888 houses but after getting rid of null rows and houses that didn't specify the address we were left with 576 houses.")
